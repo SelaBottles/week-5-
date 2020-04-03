@@ -1,0 +1,32 @@
+.g { background-color: red;
+	   margin: 15px;
+	   height: 100px;
+	   width: 50%
+      }
+
+.h { background-color: red;
+	   margin: 15px;
+	   height: 100px;
+	   width: 25%;
+      }
+
+.i { background-color: red;
+	   margin: 15px;
+	   height: 100px;
+	   width: 33%;
+      }
+
+.j { background-color: red;
+	   margin: 15px;
+	   height: 100px;
+	   width: 67%;
+      }
+
+.k { background-color: red;
+	   margin: 15px;
+	   height: 100px;
+	   width: 33%;
+      }
+
+.l { display: flex;
+}
